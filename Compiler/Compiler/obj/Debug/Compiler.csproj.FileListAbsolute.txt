@@ -1,0 +1,12 @@
+c:\users\mohamed\documents\visual studio 2013\Projects\Compiler\Compiler\bin\Debug\Compiler.exe.config
+C:\Users\Mohamed\documents\visual studio 2013\Projects\Compiler\Compiler\bin\Debug\Compiler.exe
+C:\Users\Mohamed\documents\visual studio 2013\Projects\Compiler\Compiler\bin\Debug\Compiler.pdb
+C:\Users\Mohamed\documents\visual studio 2013\Projects\Compiler\Compiler\obj\Debug\Compiler.csprojResolveAssemblyReference.cache
+C:\Users\Mohamed\documents\visual studio 2013\Projects\Compiler\Compiler\obj\Debug\Compiler.Form1.resources
+C:\Users\Mohamed\documents\visual studio 2013\Projects\Compiler\Compiler\obj\Debug\Compiler.Properties.Resources.resources
+C:\Users\Mohamed\documents\visual studio 2013\Projects\Compiler\Compiler\obj\Debug\Compiler.csproj.GenerateResource.Cache
+C:\Users\Mohamed\documents\visual studio 2013\Projects\Compiler\Compiler\obj\Debug\Compiler.exe
+C:\Users\Mohamed\documents\visual studio 2013\Projects\Compiler\Compiler\obj\Debug\Compiler.pdb
+C:\Users\Mohamed\Desktop\Compiler\Compiler\bin\Debug\Compiler.exe.config
+C:\Users\Mohamed\Desktop\Compiler\Compiler\obj\Debug\Compiler.exe
+C:\Users\Mohamed\Desktop\Compiler\Compiler\obj\Debug\Compiler.pdb
